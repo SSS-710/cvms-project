@@ -100,16 +100,13 @@ CVMS/
 ## 📸 Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
-
-### Add New Visitor
-![New Visitor](screenshots/new-visitor.png)
+.<img width="1919" height="904" alt="Screenshot 2026-05-01 181320" src="https://github.com/user-attachments/assets/c6a78e03-8366-4275-9f25-c7b3298a20db" />
 
 ### Manage Visitors
-![Manage Visitors](screenshots/manage-visitors.png)
+<img width="1919" height="896" alt="Screenshot 2026-05-01 181345" src="https://github.com/user-attachments/assets/e838a858-eca2-40ba-9977-b1d0ce330c25" />
 
 ### Admin Profile
-![Admin Profile](screenshots/admin-profile.png)
+<img width="1914" height="895" alt="Screenshot 2026-05-01 181428" src="https://github.com/user-attachments/assets/5ae927ba-f731-405c-8377-36f552003986" />
 
 ---
 
@@ -138,6 +135,7 @@ This project is open source and available under the [MIT License](LICENSE).
 **Shashank Singh Sikarwar**  
 GitHub: [@SSS-710](https://github.com/SSS-710)
 
----
 
-> CVMS © 2018. All rights reserved.<img width="1919" height="904" alt="Screenshot 2026-05-01 181320" src="https://github.com/user-attachments/assets/c6a78e03-8366-4275-9f25-c7b3298a20db" />
+
+
+> CVMS © 2018. All rights reserved.
